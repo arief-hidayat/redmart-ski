@@ -17,6 +17,6 @@ Technology used in this project
 
 I'm using IntelliJ IDEA (and JDK8) but I believe you can run it from console or other IDE as long as you have setup all the necessary tools.
 
-e.g. (in windows cmd) 
--> gradlew.bat cleanTest test
+e.g. (in windows cmd) run <code> gradlew.bat cleanTest test </code>
+
 open build/reports/tests/index.html to see the testing
